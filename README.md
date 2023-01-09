@@ -1,7 +1,7 @@
 # DigitRecognizer
 Application to Recognize Handwritten Digits
 
-This python application was created mainly using tensorflow and keras libraries and opencv for the GUI and image processing. The model was trained using a feed forward neural network and a convolutional neural network on the MNIST digits dataset. Both models perform relatively the same and it is hard to differentiate on their performance. The trained models were evaluated to have 98%+ efficiency. However, it was evaluated using MNIST test sets. In reality, the accuracy seems to be worse. When the user draws a number covering the entire canvas, the model will guess with a high accuracy and a high confidence. In other cases outlined below, this is not the case. 
+This python application was created mainly using tensorflow and keras libraries and opencv for the GUI and image processing. The model was trained using a feed forward neural network and a convolutional neural network on the MNIST digits dataset. Both models perform relatively the same and it is hard to differentiate on their performance. The trained models were evaluated to have 98%+ accuracy. However, it was evaluated using MNIST test sets. In reality, the accuracy seems to be worse. When the user draws a number covering the entire canvas, the model will guess with a high accuracy and a high confidence. In other cases outlined below, this is not the case. 
 
 Images taken using the CNN model.
 
