@@ -1,9 +1,4 @@
 # DigitRecognizer
 Application to Recognize Handwritten Digits
 
-![alt text](https://drive.google.com/file/d/1JloiyIw443G15XbLw6nGtaIlIb0nDFDU/view?usp=share_link)
-![alt text](https://drive.google.com/file/d/1gijSV4epjVRHkykrPKpyjfC4tarbXCMs/view?usp=share_link)
-![alt text](https://drive.google.com/file/d/17rNqde67FuLMMT1aj6ZoXJ7AdHWLubfv/view?usp=share_link)
-![alt text](https://drive.google.com/file/d/1a5LMSH1YOCD74eBTviZ8gXODOLv6nJaD/view?usp=share_link)
-
-
+<img width="411" alt="Screenshot_20230109_032628" src="https://user-images.githubusercontent.com/58951561/211402859-1d172bd0-8da8-418f-a4b2-4b6810ccb68c.png">
